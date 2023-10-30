@@ -10,7 +10,7 @@ accountEmail="jc@gmailk.com"
 accountPassword="364876478"
 accountCity="Bengaluru"
 
-console.table([accountId,accountEmail,accountPassword,accountCity])
+console.table([accountId,accountEmail,accountPassword,accountCity,accountState])
 
 /*
 prefer not to use var because of use in block scope and functional scope
